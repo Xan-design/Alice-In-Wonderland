@@ -1,6 +1,12 @@
+@font-face {
+    font-family: walter-turncoat;
+    src: url(/fonts/WalterTurncoat-Regular.ttf);
+}
+
 body {
     background-color: cornflowerblue;
 }
 header{
     text-align: center; 
+    font-family: walter-turncoat;
 }
