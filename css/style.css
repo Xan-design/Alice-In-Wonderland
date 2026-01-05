@@ -1,12 +1,12 @@
-@font-face {
-    font-family: walter-turncoat;
-    src: url(/fonts/WalterTurncoat-Regular.ttf);
-}
+@import url('https://fonts.googleapis.com/css2?family=Walter+Turncoat&display=swap');
 
 body {
     background-color: cornflowerblue;
 }
 header{
     text-align: center; 
-    font-family: walter-turncoat;
+    font-family: "Walter Turncoat", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 25px;
 }
