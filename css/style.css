@@ -69,3 +69,9 @@ footer{
 footer a:hover{
 color: crimson;
 }
+
+@media (max-width: 600px) {
+    main{
+        width: 80%;
+    }
+}
