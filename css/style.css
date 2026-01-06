@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Walter+Turncoat&display=swap');
 
+@import url('https://fonts.googleapis.com/css2?family=Schoolbell&display=swap');
+
 body {
     background-color: cornflowerblue;
 }
@@ -9,16 +11,46 @@ header{
     font-weight: 400;
     font-style: normal;
     font-size: 25px;
+    color: crimson;
+    background-color: aliceblue;
+    padding: 5px;
 }
 
 header .pfp{
     width: 200px;
     height: 200px;
-    border: 5px solid white;
+    border: 10px solid cornflowerblue;
     border-radius: 25%;
     background-image: url(./../img/Alices-Adventures-In-Wonderland.jpg);
     background-repeat: no-repeat;
     background-position: center -110px;
     background-size: 110%;
     margin: 50px auto;
+}
+
+body h2{
+    font-family: "Walter Turncoat", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 25px;
+}
+
+body p, ul{
+    font-family: "Schoolbell", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
+main{
+    width: 1000px;
+    margin: 0 auto;
+}
+
+img{
+    max-width: 100%;
+}
+
+body .caption{
+    font-size: 10px;
+    margin: 0 auto;
 }
