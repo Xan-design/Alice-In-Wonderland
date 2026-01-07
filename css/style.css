@@ -45,10 +45,10 @@ header .pfp.alices-sister{
     height: 200px;
     border: 10px solid cornflowerblue;
     border-radius: 25%;
-    background-image: url(https://static.wikia.nocookie.net/aliceinwonderland/images/0/0b/Alice-disneyscreencaps.com-19.jpg/revision/latest/scale-to-width-down/250?cb=20120702072820);
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5yYSGB0spXgKrGK0CJPO09R4A95WgIuHSPw&s);
     background-repeat: no-repeat;
-    background-position: -130px -40px;
-    background-size: 220%;
+        background-position: -40px 0px;
+    background-size: 140%;
     margin: 50px auto;
 }
 
