@@ -40,6 +40,18 @@ header .pfp.alice{
     margin: 50px auto;
 }
 
+header .pfp.alices-sister{
+    width: 200px;
+    height: 200px;
+    border: 10px solid cornflowerblue;
+    border-radius: 25%;
+    background-image: url(https://static.wikia.nocookie.net/aliceinwonderland/images/0/0b/Alice-disneyscreencaps.com-19.jpg/revision/latest/scale-to-width-down/250?cb=20120702072820);
+    background-repeat: no-repeat;
+    background-position: -130px -40px;
+    background-size: 220%;
+    margin: 50px auto;
+}
+
 body h2{
     font-family: "Walter Turncoat", cursive;
     font-weight: 400;
