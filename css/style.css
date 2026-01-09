@@ -16,42 +16,6 @@ header{
     padding: 5px;
 }
 
-header .pfp{
-    width: 200px;
-    height: 200px;
-    border: 10px solid cornflowerblue;
-    border-radius: 25%;
-    background-image: url(./../img/Alices-Adventures-In-Wonderland.jpg);
-    background-repeat: no-repeat;
-    background-position: center -110px;
-    background-size: 110%;
-    margin: 50px auto;
-}
-
-header .pfp.alice{
-    width: 200px;
-    height: 200px;
-    border: 10px solid cornflowerblue;
-    border-radius: 25%;
-    background-image: url(./../img/Alice_Profile_Image.png);
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: 110%;
-    margin: 50px auto;
-}
-
-header .pfp.alices-sister{
-    width: 200px;
-    height: 200px;
-    border: 10px solid cornflowerblue;
-    border-radius: 25%;
-    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5yYSGB0spXgKrGK0CJPO09R4A95WgIuHSPw&s);
-    background-repeat: no-repeat;
-        background-position: -40px 0px;
-    background-size: 140%;
-    margin: 50px auto;
-}
-
 body h2{
     font-family: "Walter Turncoat", cursive;
     font-weight: 400;
